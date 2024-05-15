@@ -1,0 +1,2 @@
+# website-ghiyas.shop
+web
